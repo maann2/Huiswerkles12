@@ -1,0 +1,46 @@
+header{
+width: 100%;
+height: 100px;
+background-color: blueviolet;
+color: aliceblue;
+}
+
+footer{
+width: 100%;
+height: 100px;
+background-color: bisque;
+color: blueviolet;
+}
+
+h1{
+color: blanchedalmond;
+}
+
+h2{
+    color: blueviolet;
+}
+
+table{
+    text-align: center;
+}
+
+td{width: 200px; height: 200px;}
+
+img{width: 50%;}
+
+#A1{background-color: aliceblue; color: black;}
+#A2{background-color: antiquewhite;}
+#A3{background-color: aqua;color: blueviolet;}
+#A4{background-color: aquamarine;}
+#B1{background-color: azure; color: blue;}
+#B2{background-color: beige;}
+#B3{background-color: bisque; color: cadetblue;}
+#B4{background-color: black;}
+#C1{background-color: blanchedalmond; color: darkmagenta;}
+#C2{background-color: blue; }
+#C3{background-color: blueviolet; color: fuchsia;}
+#C4{background-color: brown; }
+#D1{background-color: burlywood; color: aliceblue;}
+#D2{background-color: cadetblue;}
+#D3{background-color: chartreuse; color: deeppink;}
+#D4{background-color: coral;}
